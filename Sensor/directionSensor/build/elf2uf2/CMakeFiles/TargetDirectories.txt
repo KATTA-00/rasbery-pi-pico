@@ -1,0 +1,5 @@
+F:/PROJECTS/Raspberi Pi Pico/Sensor/directionSensor/build/elf2uf2/CMakeFiles/elf2uf2.dir
+F:/PROJECTS/Raspberi Pi Pico/Sensor/directionSensor/build/elf2uf2/CMakeFiles/edit_cache.dir
+F:/PROJECTS/Raspberi Pi Pico/Sensor/directionSensor/build/elf2uf2/CMakeFiles/rebuild_cache.dir
+F:/PROJECTS/Raspberi Pi Pico/Sensor/directionSensor/build/elf2uf2/boot_uf2_headers/CMakeFiles/edit_cache.dir
+F:/PROJECTS/Raspberi Pi Pico/Sensor/directionSensor/build/elf2uf2/boot_uf2_headers/CMakeFiles/rebuild_cache.dir

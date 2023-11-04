@@ -1,0 +1,1 @@
+cmd='F:/Cmake/bin/cmake.exe;-GMinGW Makefiles;<SOURCE_DIR><SOURCE_SUBDIR>'

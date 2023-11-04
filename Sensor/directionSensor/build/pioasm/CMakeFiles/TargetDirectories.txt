@@ -1,0 +1,3 @@
+F:/PROJECTS/Raspberi Pi Pico/Sensor/directionSensor/build/pioasm/CMakeFiles/pioasm.dir
+F:/PROJECTS/Raspberi Pi Pico/Sensor/directionSensor/build/pioasm/CMakeFiles/edit_cache.dir
+F:/PROJECTS/Raspberi Pi Pico/Sensor/directionSensor/build/pioasm/CMakeFiles/rebuild_cache.dir
